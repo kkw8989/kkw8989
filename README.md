@@ -43,7 +43,7 @@
 
 ### 🔧 Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 </p>
 
 <br/>
