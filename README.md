@@ -38,7 +38,7 @@
 
 ### 🗄️ Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mariadb,firebase,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,mariadb,aws" />
 </p>
 
 ### 🔧 Tools
