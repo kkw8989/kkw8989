@@ -87,15 +87,19 @@
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kkw8989&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkw8989&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kkw8989&theme=tokyonight" width="95%" />
 
   <br/><br/>
 
-  <img width="75%" src="https://streak-stats.demolab.com?user=kkw8989&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kkw8989&theme=tokyonight" width="47%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kkw8989&theme=tokyonight" width="47%" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=kkw8989&theme=tokyonight&hide_border=true" width="95%" />
 
 </div>
+
 
 <br/>
 
