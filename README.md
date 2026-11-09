@@ -86,12 +86,15 @@
 ## 📊 GITHUB STATS
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kkw8989&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkw8989&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=kkw8989&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kkw8989&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkw8989&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+  <br/><br/>
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=kkw8989&theme=tokyonight&hide_border=true" />
+
 </div>
 
 <br/>
