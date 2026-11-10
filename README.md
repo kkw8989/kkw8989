@@ -82,10 +82,9 @@
 
 <br/>
 
-<table width="100%">
+<table width="100%" align="center" cellpadding="24" cellspacing="0">
   <tr>
-    <td width="50%" valign="top" align="center">
-      <br/>
+    <td width="50%" align="center" valign="top">
       <h2>🧾 Re:Mate</h2>
       <h3>AI Receipt Management & Audit System</h3>
       <p>AI 기반 영수증 자동 분석 및 조직 경비 감사 시스템</p>
@@ -98,13 +97,13 @@
         <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
       </p>
       <br/>
-      <a href="https://github.com/kkw8989/Re-Mate">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
+      <p>
+        <a href="https://github.com/kkw8989/Re-Mate">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
-    <td width="50%" valign="top" align="center">
-      <br/>
+    <td width="50%" align="center" valign="top">
       <h2>💰 MoneyBridge</h2>
       <h3>Peer-to-Peer Financial Platform</h3>
       <p>개인 간 금융 거래를 지원하는 풀스택 서비스</p>
@@ -116,15 +115,15 @@
         <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
       </p>
       <br/>
-      <a href="https://github.com/kkw8989/moneybridge">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
+      <p>
+        <a href="https://github.com/kkw8989/moneybridge">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <br/>
+    <td width="50%" align="center" valign="top">
       <h2>🤖 Paprika</h2>
       <h3>AI Consumption Analysis</h3>
       <p>AI 영수증 분석 기반 소비 관리 프로그램</p>
@@ -136,13 +135,13 @@
         <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/>
       </p>
       <br/>
-      <a href="https://github.com/kkw8989/PythonProject">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
+      <p>
+        <a href="https://github.com/kkw8989/PythonProject">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
-    <td width="50%" valign="top" align="center">
-      <br/>
+    <td width="50%" align="center" valign="top">
       <h2>📚 TOEIC Vocabulary</h2>
       <h3>English Vocabulary Learning Platform</h3>
       <p>영어 단어 학습 웹 서비스</p>
@@ -153,10 +152,11 @@
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
       </p>
       <br/>
-      <a href="https://github.com/kkw8989/toeicvocab">
-        <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-      </a>
-      <br/><br/>
+      <p>
+        <a href="https://github.com/kkw8989/toeicvocab">
+          <img src="https://img.shields.io/badge/VIEW_PROJECT-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
